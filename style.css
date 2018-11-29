@@ -1,0 +1,75 @@
+.border1 
+ { 
+ background-image:url(pic/newboard.png);
+ background-repeat:no-repeat;
+ background-position:center;
+ width: 1015px;
+ height: 279px;
+}
+
+
+
+.border2
+{
+width: 250px;
+height: 250px;
+background: #969696;
+border: 1px solid #7d7d7d; 
+border-radius:18px 18px 18px 18px;
+word-wrap:break-word;
+box-shadow: 10px 10px 10px #7d7d7d;
+font-family:supermarket;
+font-size:20;
+color:#ffffff;
+}
+
+
+
+*{margin:auto;padding:auto;}
+
+
+#login{
+  width:300px;
+  margin:0;
+}
+
+
+#login h1{
+  background:#1488b3;
+  font-size:20;
+  padding:20px 0;
+  color:#fff;
+  border-radius:30px 30px 0px 0px;
+}
+
+
+form{
+  background:#f0f0f0;
+  padding:6% 4%;
+  border-radius:0px 0px 30px 30px; 
+  height:210px;
+}
+
+
+input[type="Username"],input[type="Password"]{
+  width:100%;
+  margin-bottom:4%;
+  padding:3%;
+}
+
+
+input[type="submit"]{
+  width:50%;
+  background:#1488b3;
+  padding:1%;
+  color:#fff;
+  cursor:pointer;
+  font-family:TH SarabunPSK;
+  font-size:26;
+}
+
+
+
+input[type="submit"]:hover{
+  background:#12779c;
+}

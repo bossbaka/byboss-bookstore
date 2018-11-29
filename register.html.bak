@@ -1,0 +1,189 @@
+<html>
+<head>
+<title>:: Register ::</title>
+ 
+<link rel="shortcut icon" href="pic/blog.ico">
+ </head>
+
+ <body background="pic/bg.jpg" link="#000000" vlink="#ff0099" alink="#0033cc"> 
+  
+  <table width="1000" align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+		<td width="300"><img src="pic/logo.png"></td>
+		<td><img src="pic/benner.png"></td>
+	</tr>
+	</table>
+
+<br>
+<table width="1000" align="center" border="0" cellspacing="0" cellpadding="0" bgcolor="">
+<tr>
+		<td><center><a href="index.html"><img src="pic/home1.png"></a>
+				<a href="book.html"><img src="pic/book2.png"></a>
+				<a href="zine.html"><img src="pic/zines3.png"></a>
+				<a href="comic.html"><img src="pic/comic4.png"></a>
+				<a href="buy.html"><img src="pic/buy5.png"></a>
+				<a href="about.html"><img src="pic/about6.png"></center></a></td>
+</tr>
+</table>
+
+<br>
+<table width="1000" align="center" border="1"> 
+<tr><td bgcolor="#79bcbf"><font face="TH SarabunPSK" size="5"><center><marquee behavior="scroll"> แจ้ง : การใช้งานเว็บไซต์แนะนำให้ใช้กับบราวเซอร์ Google Chrome เพื่อให้รูปแบบแสดงผลลัพธ์ออกมาสมบูรณ์</marquee></center></font></td></tr></table>
+
+<br>
+<table width="1000" align="center" border="0" background="Pic/g2.jpg" >
+<tr>
+					<td bgcolor="#c66378"><font face="Layiji TaMaiTine1" size="5" color="#ffffff">&nbsp;Register </font></td>	
+</tr>
+<tr>
+					<td background="pic/bg_wh.png"><br><font face="TH Chakra Petch" size="5">&nbsp;กรุณากรอกรายละเอียดด้านล่างเพื่อสมัครเป็นสมาชิก</font><br>
+
+ <br>
+ <form><font face="TH Chakra Petch" size="5">
+&nbsp; * ชื่อ : <input type="text" style="width:150px;height:25px"><br>
+&nbsp; * นามสกุล : <input type="text" style="width:150px;height:25px"><br>
+&nbsp; * Username : <input type="text" style="width:150px;height:25px"><br>
+&nbsp; * Password : <input type="password" style="width:150px;height:25px"><br>
+&nbsp; * Confirm Password : <input type="password" style="width:150px;height:25px"><br>
+&nbsp; * Email : <input type="text" style="width:150px;height:25px"><br>
+&nbsp; * เพศ : ชาย <input type="radio" name="sex" valuse="male" > หญิง <input type="radio" name="sex" valuse="female"><br>
+&nbsp; * Birthdate - วันที่ : <input type="text" style="width:40px;height:25px">
+&nbsp; เดือน : <select name="Birth" style="width:80px;height:25px">
+	<option> เดือน
+	<option> มกราคม
+	<option> กุมภาพันธ์
+	<option> มีนาคม
+	<option> พฤษาภาคม
+	<option> มิถุนายน
+	<option> กรกฎาคม
+	<option> สิงหาคม
+	<option> กันยายน
+	<option> ตุลาคม
+	<option> พฤศจิกายน
+	<option> ธันวาคม
+</select>
+&nbsp;  ปี : <input type="text" style="width:80px;height:25px"><br>
+&nbsp; * ที่อยู่ : <input type="text"  style="width:150px;height:25px"><br>
+&nbsp; * ซอย : <input type="text"  style="width:150px;height:25px"><br>
+&nbsp; * ถนน : <input type="text"  style="width:150px;height:25px"><br>
+&nbsp; * ตำบล : <input type="text"  style="width:150px;height:25px"><br>
+&nbsp; * อำเภอ : <input type="text"  style="width:150px;height:25px"><br>
+&nbsp; * จังหวัด : <select name="city" style="width:100px;height:25px">
+               <option>เลือกจังหวัด
+               <option>กระบี่
+               <option>กรุงเทพมหานคร  
+               <option>กาญจนบุรี
+               <option>กาฬสินธุ์         
+               <option>กำแพงเพชร
+               <option>ขอนแก่น 
+               <option>จันทบุรี
+               <option>ฉะเชิงเทรา
+               <option>ชลบุรี 
+               <option>ชัยนาท
+               <option>ชัยภูมิ
+               <option>ชุมพร
+               <option>เชียงราย
+               <option>เชียงใหม่
+               <option>ตรัง      
+               <option>ตราด  
+               <option>ตาก     
+               <option>นครนายก
+               <option>นครปฐม
+               <option>นครพนม
+               <option>นครราชสีมา
+               <option>นครศรีธรรมราช
+               <option>นครสวรรค์
+               <option>นนทบุรี
+               <option>นราธิวาส
+               <option>น่าน
+               <option>บึงกาฬ
+               <option>บุรีรัมย์
+               <option>ปทุมธานี
+               <option>ประจวบคีรีขันธ์
+               <option>ปราจีนบุรี
+               <option>ปัตตานี
+               <option>พระนครศรีอยุธยา  
+               <option>พะเยา
+               <option>พังงา     
+               <option>พัทลุง   
+               <option>พิจิตร
+               <option>พิษณุโลก
+               <option>เพชรบุรี      
+               <option>เพชรบูรณ์ 
+               <option>แพร่   
+               <option>ภูเก็ต
+               <option>มหาสารคาม
+               <option>มุกดาหาร    
+               <option>แม่ฮ่องสอน 
+               <option>ยโสธร 
+               <option>ยะลา
+               <option>ร้อยเอ็ด  
+               <option>ระนอง 
+               <option>ระยอง   
+               <option>ราชบุรี     
+               <option>ลพบุรี   
+               <option>ลำปาง   
+               <option>ลำพูน      
+               <option>เลย         
+               <option>ศรีษะเกศ    
+               <option>สกลนคร     
+               <option>สงขลา        
+               <option>สตูล 
+               <option>สมุทรปราการ
+               <option>สมุทรสงคราม
+               <option>สมุทรสาคร         
+               <option>สระแก้ว
+               <option>สระบุรี  
+               <option>สิงห์บุรี
+               <option>สุโขทัย
+               <option>สุพรรณบุรี
+               <option>สุราษฎร์ธานี
+               <option>สุรินทร์
+               <option>หนองคาย
+               <option>หนองบัวลำภู 
+               <option>อ่างทอง
+               <option>อำนาจเจริญ   
+               <option>อุดรธานี     
+               <option>อุตรดิตถ์
+               <option>อุทัยธานี
+               <option>อุบลราชธานี
+ </select><br>
+&nbsp; * รหัสไปรษณีย์ :  <input type="text" style="width:150px;height:25px"><br>
+&nbsp; * โทรศัพท์บ้าน :  <input type="text" style="width:150px;height:25px"><br>
+&nbsp; * มือถือ :  <input type="text" style="width:150px;height:25px"><br>
+&nbsp; * Enter text : <input type="text" style="width:150px;height:25px">
+<pre>             <img src="Pic/show.png"></pre>
+
+<center><input type="checkbox"> ยืนยันยอมรับข้อกำหนดและเงื่อนไขในการใช้บริการของเรา</center><br>
+<center><input type="submit" value="ตกลง" style="width:100px;height:30px">
+<input type="reset" value="ยกเลิก" style="width:100px;height:30px"></center>
+</font></form>
+ <font face="TH Chakra Petch" size="5"><p align="right"><a href="index.html">กลับหน้าแรก Click</a></p></font> <br>
+					</td>	
+</tr>
+</table>
+
+
+
+
+
+<br><br>
+
+					<center><img src="pic/line.png" width="1015" height="8"></center><br><br>
+<table width="1000" align="center" border="0" background="pic/bg_wh.png">
+			<tr>
+					<td width="300" valign="top">
+					<br><font face="TH SarabunPSK" size="5">Phisek BookStore Center Co.,Ltd. <br>
+					Copyright <img src="pic/copyright.png"> 2014 All Right Reserved.</font>
+					</td>
+
+					<td width="500"><br>
+					<p align="right"><font face="TH SarabunPSK" size="5">เกี่ยวกับเรา<br>จัดทำโดย นายภิเษก ปิ่นเปีย<br>แผนกเทคโนโลยีสารสนเทศ ชั้น สทส.1/1 เลขที่ 6<br>เบอร์โทร : 089-5423195 line : ppbookstore 
+					<br><br>Contact Us : </font><a href="http://www.facebook.com" target="_blank"><img src="pic/face.png" align="middle"></a> <a href="http://www.youtube.com" target="_blank"><img src="pic/tube.png" align="middle"></a> <img src="pic/rss.png" align="middle"></p>
+					</td>
+			</tr>
+</table>
+
+
+</body>
+</html>
