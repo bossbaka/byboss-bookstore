@@ -2,5 +2,4 @@
 bookstore
 
 งานตอนปวส
-PHP Adobe dreamweaver
 
