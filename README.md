@@ -1,6 +1,6 @@
 # byboss-bookstore
 bookstore
 
-งานตอนปวส.1 
+งานตอนปวส
 PHP Adobe dreamweaver
 
